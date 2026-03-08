@@ -16,6 +16,8 @@ a slightly customizable warp plugin
 - require that players have permission to visit/see a warp with `/setwarp <warp> permission <node>`
 - delete a warp with `/delwarp <warp>`
 
+![A preview of the warp menu opened with /warps](https://raw.githubusercontent.com/real-blahaj/pxewarp/HEAD/.github/assets/warpmenu.png)
+
 <details>
   <summary>click to view commands/permissions</summary>
   <h3><code>/warp &lt;warp&gt;</code></h3>
